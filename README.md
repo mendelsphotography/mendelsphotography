@@ -1,5 +1,5 @@
 ### Hi there 👋
-I Am A Student photographer 
+Hi there My Name is Mendel E im a student Photographer i love taking pictures and videos and editing them and code/ program and make programs
 <!--
 **mendelsphotography/mendelsphotography** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
