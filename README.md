@@ -7,7 +7,7 @@ Youtube https://mendelsphotography.com/youtube
 
 
 
-https://youtu.be/o8YOdZdQkXY
+https://www.youtube.com/watch?v=o8YOdZdQkXY
 
 
 
