@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I Am A Student photographer 
 <!--
 **mendelsphotography/mendelsphotography** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
