@@ -11,6 +11,8 @@ https://www.youtube.com/watch?v=o8YOdZdQkXY
 
 
 
+[![Erev Shabbos In Crown Heights](http://img.youtube.com/vi/o8YOdZdQkXY/0.jpg)](http://www.youtube.com/watch?v=o8YOdZdQkXY "Erev Shabbos")
+
 <!--
 **mendelsphotography/mendelsphotography** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
