@@ -4,7 +4,7 @@ My Website https://mendelsphotography.com
 Youtube https://mendelsphotography.com/youtube
 
 
-Camp Gan Menachem Website https://campganmenachem.com/?=github
+Camp Gan Menachem Website <a href="https://campganmenachem.com/?ref=github">campganmenachem.com</a>
 
 
 
