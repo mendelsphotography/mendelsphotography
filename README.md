@@ -19,21 +19,7 @@
  
 <P>
 
-<!--
-Hi there My Name is Mendel E im a student Photographer i love taking pictures and videos and editing them and code/ program and make programs
-My Website https://mendelsphotography.com
-Youtube https://mendelsphotography.com/youtube
--->
 
-<!--
-Camp Gan Menachem Website <a href="https://campganmenachem.com/?ref=github">campganmenachem.com</a>
--->
-<!--
-https://www.youtube.com/watch?v=o8YOdZdQkXY
--->
-
-
-[![Erev Shabbos In Crown Heights](http://img.youtube.com/vi/o8YOdZdQkXY/0.jpg)](http://www.youtube.com/watch?v=o8YOdZdQkXY "Erev Shabbos")
 </p>
 
 🔗 <b>Contact Me At</b>: <br/>
