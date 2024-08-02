@@ -14,7 +14,7 @@
    
  <p>
   📣 Connect With Me :<br/>
-  <a href="mailto:dev.shabinder@gmail.com?subject=[GitHub]%20🔥%20Want%20To%20contact&body=Good%20Morning%20Shabinder%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="mailto:mendel@mendelsphotography.com?subject=[GitHub]%20🔥%20Want%20To%20contact&body=Good%20Morning%20Mendelsphotography%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 </p><br/><br/>
  
 <P>
